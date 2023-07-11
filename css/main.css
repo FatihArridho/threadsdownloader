@@ -1,0 +1,24 @@
+#result article {
+    --block-spacing-vertical: 40px;
+    --block-spacing-horizontal: 20px;
+}
+
+#result a[role=button] {
+	display: block;
+	width: 100%;
+	margin-bottom: 0;
+}
+
+#result video {
+	width: 100%;
+	max-width: 480px;
+	display: block;
+	margin: 0 auto;
+}
+
+#result img {
+	width: 100%;
+	max-width: 480px;
+	display: block;
+	margin: 0 auto;
+}
